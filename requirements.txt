@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+SpeechRecognition
+gTTS
+deep-translator
+requests
+pyaudio
+av
